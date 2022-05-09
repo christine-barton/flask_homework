@@ -1,5 +1,6 @@
 # Flask Template
 Basic structure for starting a Flask project with Jinja templates
+Homework Assignment for Digital Project Management Class
 
 ---
 1. Clone this repository to local computer
